@@ -4,7 +4,7 @@ About Me:
   - I graduated from the University of San Francisco (USFCA) in 2021 with a BS in Data Science
   - I'm currently enrolled at USFCA pursuing my Master's degree in Information Systems, graduating in December 2022
   - I am looking for Data Science and Data Analyst internships
-  - In my free time, I like to play around with 3D modeling applications
+  - In my free time, I like to work on my hobby of creating 3D-rendered objects 
 
 👀 I’m interested in: 
   - Data Analytics
