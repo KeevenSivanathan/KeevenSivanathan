@@ -6,13 +6,12 @@ About Me:
   - I am looking for Data Science and Data Analyst internships
   - In my free time, I like to play around with 3D modeling applications
 
-- 👀 I’m interested in: 
+👀 I’m interested in: 
   - Data Analytics
   - Data Visualizations 
   - Machine Learning
 
-
-- How to contact me: 
+How to contact me: 
   - <a href="https://www.linkedin.com/in/ksivanathan/">Linked In</a>
   - <a href = "mailto: keeveneven@gmail.com">Send Email</a>
   - <a href="https://keevensivanathan.webflow.io/">Personal Website</a>
