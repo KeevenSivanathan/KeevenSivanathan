@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KeevenSivanathan
+- 👋 Hi, I’m Keeven Sivanathan
 
 About Me: 
   - I graduated from the University of San Francisco (USFCA) in 2021 with a BS in Data Science
